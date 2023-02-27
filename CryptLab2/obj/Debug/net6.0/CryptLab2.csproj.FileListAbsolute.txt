@@ -1,0 +1,15 @@
+/Users/gnemirko/aux/CryptLab2/CryptLab2/bin/Debug/net6.0/CryptLab2
+/Users/gnemirko/aux/CryptLab2/CryptLab2/bin/Debug/net6.0/CryptLab2.deps.json
+/Users/gnemirko/aux/CryptLab2/CryptLab2/bin/Debug/net6.0/CryptLab2.runtimeconfig.json
+/Users/gnemirko/aux/CryptLab2/CryptLab2/bin/Debug/net6.0/CryptLab2.dll
+/Users/gnemirko/aux/CryptLab2/CryptLab2/bin/Debug/net6.0/CryptLab2.pdb
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.csproj.AssemblyReference.cache
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.AssemblyInfoInputs.cache
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.AssemblyInfo.cs
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.csproj.CoreCompileInputs.cache
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.dll
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/refint/CryptLab2.dll
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.pdb
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/CryptLab2.genruntimeconfig.cache
+/Users/gnemirko/aux/CryptLab2/CryptLab2/obj/Debug/net6.0/ref/CryptLab2.dll
